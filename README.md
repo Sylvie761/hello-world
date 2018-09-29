@@ -1,4 +1,4 @@
 # hello-world
 hi
 
-i just want anintroducer bot on discord
+i just want an introducer bot on discord
